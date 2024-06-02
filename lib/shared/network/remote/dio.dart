@@ -10,7 +10,7 @@ class DioHelper {
   static void init1() {
     dio = Dio(
       BaseOptions(
-        baseUrl: 'https://u-clinic.wik.ydh.mybluehost.me/',
+        baseUrl: 'https://supreme-api.afyamed.co/',
         receiveTimeout: 3000000,
         connectTimeout: 3000000,
         receiveDataWhenStatusError: true,
